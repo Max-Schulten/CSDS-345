@@ -1,3 +1,9 @@
+/*
+ * AUTHORS:
+ *          Maximilian Schulten (mls384@case.edu)
+ *          Tommaso Beretta     (txb341@case.edu)
+ */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
